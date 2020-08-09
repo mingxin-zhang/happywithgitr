@@ -2,7 +2,7 @@
 title: "happywithgitr"
 author: "zmx"
 date: "2020/8/9"
-output: html_document
+output:  github_document
 ---
 
 ```{r setup, include=FALSE}
